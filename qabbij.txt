@@ -13,3 +13,10 @@ White
 Purple
 Red
 These are the colors of a lettuis
+
+
+Orange
+Yellow
+Purple
+White
+These are the colors of a Qoern
