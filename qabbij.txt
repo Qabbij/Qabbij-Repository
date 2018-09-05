@@ -11,4 +11,5 @@ Green
 Yellow
 White
 Purple
+Red
 These are the colors of a lettuis
